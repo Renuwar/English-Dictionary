@@ -1,5 +1,5 @@
 English Dictionary
-by Rizky Ganuar, 1C-Informatics Techniqueb 2330511049
+by Rizky Ganuar, 1C-Computer Engineering 2330511049
 
 1. Algorithm: A step-by-step procedure or formula for solving a problem or accomplishing a task, especially for performing calculations or automated reasoning.
 2. ASCII: American Standard Code for Information Interchange, a character encoding standard used for representing text in computers and other devices.
