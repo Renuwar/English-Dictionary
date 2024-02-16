@@ -2,506 +2,542 @@ English Dictionary
 by Rizky Ganuar, 1C-Computer Engineering 2330511049
 
 Translations(Indonesia):
-1. Algorithm - Algoritma
-2. ASCII - ASCII
-3. Assembly language - Bahasa rakitan
-4. Authentication - Otentikasi
-5. Backup - Cadangan
-6. Bandwidth - Lebar pita
-7. Binary - Biner
-8. BIOS - BIOS
-9. Bit - Bit
-10. Bluetooth - Bluetooth
-11. Bootstrap - Bootstrap
-12. Browser - Peramban
-13. Buffer - Buffer
-14. Bug - Bug
-15. Byte - Byte
-16. Cache - Cache
-17. CAPTCHA - CAPTCHA
-18. CD-ROM - CD-ROM
-19. Central Processing Unit (CPU) - Unit Pemrosesan Pusat (CPU)
-20. Chipset - Chipset
-21. Cloud computing - Komputasi awan
-22. Cluster - Kluster
-23. Codec - Codec
-24. Compiler - Kompilator
-25. Computer - Komputer
-26. Cookies - Kue kering
-27. Copy-paste - Salin-tempel
-28. CPU architecture - Arsitektur CPU
-29. Crash - Crash
-30. Cryptography - Kriptografi
-31. Cursor - Kursor
-32. Cybersecurity - Keamanan siber
-33. Data - Data
-34. Database - Basis data
-35. Debugging - Debugging
-36. Desktop - Desktop
-37. DHCP (Dynamic Host Configuration Protocol) - DHCP (Protokol Konfigurasi Host Dinamis)
-38. Digital - Digital
-39. Directory - Direktori
-40. Disk drive - Pemacu cakera
-41. Domain - Domain
-42. Download - Unduh
-43. Driver - Driver
-44. Dynamic Link Library (DLL) - Pustaka Tautan Dinamis (DLL)
-45. E-commerce - E-commerce
-46. Email - Email
-47. Encryption - Enkripsi
-48. Endpoint - Titik akhir
-49. Ethernet - Ethernet
-50. Firewall - Firewall
-51. Firmware - Firmware
-52. Flash drive - Pemacu flash
-53. Floppy disk - Disket
-54. Folder - Folder
-55. Font - Font
-56. Format - Format
-57. Freeware - Perangkat lunak bebas
-58. FTP (File Transfer Protocol) - FTP (Protokol Transfer Berkas)
-59. Gateway - Gerbang
-60. Gigabyte - Gigabita
-61. Graphics Processing Unit (GPU) - Unit Pemrosesan Grafis (GPU)
-62. Graphical User Interface (GUI) - Antarmuka Pengguna Grafis (GUI)
-63. Hacker - Peretas
-64. Hard disk - Cakera keras
-65. Hardware - Perangkat keras
-66. Hash - Hash
-67. HTML (Hypertext Markup Language) - HTML (Bahasa Pemformatan Hiperteks)
-68. HTTP (Hypertext Transfer Protocol) - HTTP (Protokol Transfer Hiperteks)
-69. Hyperlink - Hyperlink
-70. IDE (Integrated Development Environment) - IDE (Lingkungan Pengembangan Terpadu)
-71. Inbox - Kotak masuk
-72. Input - Masukan
-73. Installation - Instalasi
-74. Internet - Internet
-75. IP address - Alamat IP
-76. ISP (Internet Service Provider) - Penyedia Layanan Internet (ISP)
-77. Java - Java
-78. JavaScript - JavaScript
-79. JPEG - JPEG
-80. Keyboard - Papan ketik
-81. Kilobyte - Kilobita
-82. LAN (Local Area Network) - LAN (Jaringan Lokal)
-83. Laptop - Laptop
-84. Latency - Latensi
-85. Linux - Linux
-86. Log - Log
-87. Login - Masuk
-88. Malware - Malware
-89. Megabyte - Megabita
-90. Memory - Memori
-91. Microprocessor - Mikroprosesor
-92. Middleware - Perantara perangkat lunak
-93. Migration - Migrasi
-94. Modem - Modem
-95. Monitor - Monitor
-96. Motherboard - Papan induk
-97. Mouse - Tetikus
-98. Multimedia - Multimedia
-99. Network - Jaringan
-100. Node - Node
-101. Notification - Pemberitahuan
-102. Object-oriented programming (OOP) - Pemrograman berorientasi objek (OOP)
-103. Operating system - Sistem operasi
-104. Output - Keluaran
-105. Overclocking - Overclocking
-106. Password - Kata sandi
-107. Patch - Perbaikan
-108. PDF (Portable Document Format) - PDF (Format Dokumen Bergerak)
-109. Peripheral - Periferal
-110. Phishing - Phishing
-111. Pixel - Piksel
-112. Platform - Platform
-113. Plug and play - Colok dan mainkan
-114. Podcast - Podcast
-115. Pop-up - Pop-up
-116. Port - Port
-117. Printer - Printer
-118. Programming - Pemrograman
-119. Protocol - Protokol
-120. RAM (Random Access Memory) - RAM (Memori Akses Acak)
-121. Reboot - Menjalankan ulang
-122. Recovery - Pemulihan
-123. Redirect - Redirect
-124. Remote - Jarak jauh
-125. Router - Router
-126. Runtime - Waktu proses
-127. SATA (Serial ATA) - SATA (ATA Serial)
-128. Scanner - Pemindai
-129. Screen - Layar
-130. Script - Skrip
-131. Search engine - Mesin pencari
-132. Security - Keamanan
-133. Server - Server
-134. Shareware - Perangkat lunak bagian
-135. Shell - Shell
-136. Shortcut - Pintasan
-137. Silicon - Silikon
-138. Simulation - Simulasi
-139. Software - Perangkat lunak
-140. Spam - Spam
-141. Spreadsheet - Lembar kerja
-142. SQL (Structured Query Language) - SQL (Bahasa Permintaan Terstruktur)
-143. SSL (Secure Sockets Layer) - SSL (Lapisan Soket Aman)
-144. Storage - Penyimpanan
-145. Streaming - Streaming
-146. Subnet - Subjaring
-147. Surge protector - Pelindung lonjakan
-148. System - Sistem
-149. Tablet - Tablet
-150. TCP/IP (Transmission Control Protocol/Internet Protocol) - TCP/IP (Protokol Pengendalian Transmisi/Protokol Internet)
-151. Template - Templat
-152. Terabyte - Terabita
-153. Thread - Utas
-154. Thumbnail - Gambar kecil
-155. Touchscreen - Layar sentuh
-156. Trojan horse - Kuda Troya
-157. Unicode - Unicode
-158. Upload - Unggah
-159. URL (Uniform Resource Locator) - URL (Lokator Sumber Seragam)
-160. USB (Universal Serial Bus) - USB (Bus Serial Universal)
-161. User interface - Antarmuka pengguna
-162. Username - Nama pengguna
-163. Variable - Variabel
-164. Version - Versi
-165. Virus - Virus
-166. VPN (Virtual Private Network) - VPN (Jaringan Pribadi Virtual)
-167. WAN (Wide Area Network) - WAN (Jaringan Luas)
-168. Web browser - Peramban web
-169. Webcam - Webcam
-170. Wi-Fi - Wi-Fi
-171. Windows - Windows
-172. Wireless - Nirkabel
-173. Worm - Cacing
-174. XML (eXtensible Markup Language) - XML (Bahasa Pemformatan Diperluas)
-175. Zip file - Berkas zip
-176. 3D printing - Percetakan 3D
-177. 4K resolution - Resolusi 4K
-178. Access control - Kontrol akses
-179. Adaptive software - Perangkat lunak adaptif
-180. Adware - Perangkat lunak iklan
-181. Algorithmic trading - Perdagangan algoritmik
-182. Ambient computing - Komputasi ambiens
-183. Analog - Analog
-184. Animation - Animasi
-185. Anonymizer - Anonimiser
-186. Antivirus - Antivirus
-187. API (Application Programming Interface) - API (Antarmuka Pemrograman Aplikasi)
-188. App - Aplikasi
-189. Application - Aplikasi
-190. Archiving - Pengarsipan
-191. ARP (Address Resolution Protocol) - ARP (Protokol Resolusi Alamat)
-192. Artificial Intelligence (AI) - Kecerdasan Buatan (AI)
-193. Augmented Reality (AR) - Realitas Tertambah (AR)
-194. Authentication token - Token otentikasi
-195. Autoresponder - Autoresponder
-196. Avatar - Avatar
-197. Backend - Backend
-198. Bandwidth throttling - Penyesuaian lebar pita
-199. Base64 - Basis64
-200. Benchmark - Tolak ukur
-201. Big Data - Data besar
-202. Binary tree - Pohon biner
-203. BIOS update - Pembaruan BIOS
-204. Bit rate - Laju bit
-205. Bitmap - Bitmap
-206. Black hat - Topi hitam
-207. Blockchain - Rantai blok
-208. Bluetooth LE (Low Energy) - Bluetooth LE (Energi Rendah)
-209. Bookmark - Tandai
-210. Boolean - Boolean
-211. Bot - Bot
-212. Bounce rate - Laju bounce
-213. Brute force - Paksaan kasar
-214. Buffer overflow - Tumpah buffer
-215. Buggy - Kecelakaan
-216. Burn - Bakar
-217. Bus - Bus
-218. Bytecode - Kode byte
-219. Caching - Penyimpanan sementara
-220. CAP theorem - Teorema CAP
-221. Cascading Style Sheets (CSS) - Cascading Style Sheets (CSS)
-222. Chatbot - Bot obrolan
-223. Chmod - Chmod
-224. Chromebook - Chromebook
-225. Chromecast - Chromecast
-226. Clickbait - Umpan klik
-227. Clipboard - Papan klip
-228. Cloning - Penggandakan
-229. Cluster computing - Komputasi kluster
-230. CMS (Content Management System) - CMS (Sistem Manajemen Konten)
-231. Coaxial cable - Kabel koaksial
-232. Code - Kode
-233. Coding - Kode
-234. Cognitive computing - Komputasi kognitif
-235. Cold boot - Boot dingin
-236. Collaboration software - Perangkat lunak kolaborasi
-237. Command line - Baris perintah
-238. Comment - Komentar
-239. Common Gateway Interface (CGI) - Antarmuka Gerbang Umum (CGI)
-240. Compiler optimization - Optimisasi kompilator
-241. Computer-aided design (CAD) - Desain bantu komputer (CAD)
-242. Computer-aided manufacturing (CAM) - Manufaktur bantu komputer (CAM)
-243. Concatenation - Penggabungan
-244. Cookie cutter - Cookie cutter
-245. Copywriting - Penulisan salinan
-246. Crash dump - Dump crash
-247. CRC (Cyclic Redundancy Check) - CRC (Pemeriksaan Redundansi Siklik)
-248. CRUD (Create, Read, Update, Delete) - CRUD (Buat, Baca, Perbarui, Hapus)
-249. Cryptocurrency - Mata uang kripto
-250. CSS framework - Kerangka CSS
-251. Cyberbullying - Penindasan siber
-252. Data center - Pusat data
-253. Data mining - Pertambangan data
-254. Data warehouse - Gudang data
-255. Debug - Debug
-256. Decompiler - Decompiler
-257. Deep learning - Pembelajaran mendalam
-258. Default - Bawaan
-259. Denial-of-service (DoS) - Penolakan layanan (DoS)
-260. Dependency - Ketergantungan
-261. Desktop environment - Lingkungan desktop
-262. Developer - Pengembang
-263. Device driver - Driver perangkat
-264. DevOps (Development and Operations) - DevOps (Pengembangan dan Operasi)
-265. Dial-up - Panggilan
-266. Digital divide - Pemisahan digital
-267. Digital footprint - Jejak digital
-268. Digital signature - Tanda tangan digital
-269. Directory traversal - Traversal direktori
-270. Disk partition - Partisi disk
-271. Dithering - Dithering
-272. DDoS (Distributed Denial of Service) - DDoS (Penolakan Layanan Terdistribusi)
-273. DNS (Domain Name System) - DNS (Sistem Nama Domain)
-274. Docking station - Stasiun docking
-275. Domain registrar - Registrar domain
-276. Dongle - Dongle
-277. Downtime - Waktu tidak aktif
-278. Drag and drop - Tarik dan lepas
-279. Driver update - Pembaruan driver
-280. Dropper - Penetes
-281. DSL (Digital Subscriber Line) - DSL (Garis Pelanggan Digital)
-282. Dynamic DNS - DNS dinamis
-283. Dynamic HTML - HTML dinamis
-284. Edge computing - Komputasi tepi
-285. Emoji - Emoji
-286. Emoticon - Emotikon
-287. Endpoint security - Keamanan titik akhir
-288. Entity - Entitas
-289. Ergonomics - Ergonomi
-290. ERP (Enterprise Resource Planning) - ERP (Perencanaan Sumber Daya Perusahaan)
-291. Exploit - Manfaatkan
-292. Extension - Ekstensi
-293. Failover - Gagal
-294. Favicon - Favicon
-295. Fiber optics - Optik serat
-296. Field - Lapangan
-297. File compression - Kompresi berkas
-298. File system - Sistem berkas
-299. Firmware update - Pembaruan firmware
-300. Fisheye lens - Lensa ikan
-301. Floating point - Titik apung
-302. Floppy disk drive - Pemacu disket
-303. Fog computing - Komputasi kabut
-304. Folder tree - Pohon folder
-305. Footer - Kaki halaman
-306. Form factor - Faktor bentuk
-307. Forward error correction - Koreksi kesalahan maju
-308. Framework - Kerangka kerja
-309. Freeware license - Lisensi perangkat lunak bebas
-310. Front end - Depan
-311. Fuzzy logic - Logika kabur
-312. Gaming computer - Komputer game
-313. Gamification - Gamifikasi
-314. Gateway router - Router gerbang
-315. Geotagging - Geotagging
-316. GIF (Graphics Interchange Format) - GIF (Format Pertukaran Grafis)
-317. Git - Git
-318. Github - Github
-319. GNU - GNU
-320. Go-live - Hidup
-321. Google Docs - Google Docs
-322. Google Drive - Google Drive
-323. GPG (GNU Privacy Guard) - GPG (Pengawal Privasi GNU)
-324. GPS (Global Positioning System) - GPS (Sistem Penentuan Posisi Global)
-325. Graph database - Basis data grafik
-326. Graphical modeling - Pemodelan grafis
-327. Grid computing - Komputasi grid
-328. GUI toolkit - Perangkat pemrograman antarmuka pengguna grafis (GUI)
-329. Hackathon - Hackathon
-330. Handheld device - Perangkat genggam
-331. Hard drive partition - Partisi cakera keras
-332. Hardware abstraction - Abstraksi perangkat keras
-333. Hash function - Fungsi hash
-334. Header - Header
-335. Heat sink - Pendingin
-336. Hertz (Hz) - Hertz (Hz)
-337. Hexadecimal - Heksadesimal
-338. Honeypot - Honeypot
-339. Hotspot - Hotspot
-340. HTML5 - HTML5
-341. HTTP/2 - HTTP/2
-342. Hub - Hub
-343. Hybrid cloud - Awan hibrida
-344. Hyper-threading - Hiper-pengutuban
-345. IDE (Integrated Development Environment) - IDE (Lingkungan Pengembangan Terpadu)
-346. Identity theft - Pencurian identitas
-347. Image editing software - Perangkat lunak pengeditan gambar
-348. Index - Indeks
-349. Indexed color - Warna diindeks
-350. Infrared - Inframerah
-351. Information architecture - Arsitektur informasi
-352. Ingress - Ingres
-353. Inheritance - Pewarisan
-354. Inline image - Gambar dalam baris
-355. Input device - Perangkat masukan
-356. Instant messaging - Pesan instan
-357. Instruction set - Set instruksi
-358. Integrated circuit - Sirkuit terpadu
-359. Integration - Integrasi
-360. Interface - Antarmuka
-361. Internet protocol suite - Paket protokol internet
-362. Interpreter - Penerjemah
-363. Intrusion detection system - Sistem deteksi intrusi
-364. IP spoofing - IP spoofing
-365. ISP (Internet Service Provider) - Penyedia layanan internet
-366. Iteration - Iterasi
-367. Jailbreak - Jailbreak
-368. Java applet - Aplikasi Java
-369. JavaScript framework - Kerangka JavaScript
-370. Jitter - Jitter
-371. Job scheduler - Penjadwalan pekerjaan
-372. JPEG compression - Kompresi JPEG
-373. JSON (JavaScript Object Notation) - JSON (Notasi Objek JavaScript)
-374. Keyboard shortcut - Pintasan papan ketik
-375. Keylogger - Keylogger
-376. Kilohertz (kHz) - Kilohertz (kHz)
-377. Kiosk - Kiosk
-378. Kubernetes - Kubernetes
-379. LAN party - Pesta LAN
-380. Latency optimization - Optimisasi latensi
-381. LCD (Liquid Crystal Display) - LCD (Tampilan Kristal Cair)
-382. Legacy system - Sistem warisan
-383. Lens flare - Pantulan lensa
-384. Library - Perpustakaan
-385. Lightbox - Kotak lampu
-386. Lightweight - Ringan
-387. Linker - Penaut
-388. Linux distribution - Distribusi Linux
-389. Localhost - Localhost
-390. Location-based services - Layanan berbasis lokasi
-391. Logic gate - Gerbang logika
-392. Logon - Masuk
-393. Loopback - Loopback
-394. Lossless compression - Kompresi tanpa kehilangan
-395. Lossy compression - Kompresi dengan kehilangan
-396. Machine code - Kode mesin
-397. Machine learning - Pembelajaran mesin
-398. Macro - Makro
-399. Magnetic storage - Penyimpanan magnetik
-400. Malvertising - Malvertising
-401. Markdown - Markdown
-402. Mashup - Gabungan
-403. Master boot record (MBR) - Rekaman boot master (MBR)
-404. Megahertz (MHz) - Megahertz (MHz)
-405. Metadata - Metadata
-406. Metasploit - Metasploit
-407. Microcontroller - Mikrokontroler
-408. Middleware - Perantara perangkat lunak
-409. MIME type - Jenis MIME
-410. Miniaturization - Miniaturisasi
-411. Minification - Penyusutan
-412. Mirroring - Pencerminkan
-413. Modal window - Jendela modal
-414. Modeless window - Jendela tanpa mode
-415. Modular programming - Pemrograman modular
-416. Modulation - Modulasi
-417. Moiré pattern - Pola moiré
-418. Monetization - Monetisasi
-419. Motherboard chipset - Chipset papan induk
-420. Multi-core processor - Prosesor multi inti
-421. Multi-factor authentication - Otentikasi multi faktor
-422. Multimedia messaging service (MMS) - Layanan pesan multimedia (MMS)
-423. Nanotechnology - Nanoteknologi
-424. NAT (Network Address Translation) - NAT (Terjemahan Alamat Jaringan)
-425. Navigation bar - Bilah navigasi
-426. Netiquette - Etiket jaringan
-427. Network adapter - Penyesuai jaringan
-428. Network topology - Topologi jaringan
-429. Neural network - Jaringan saraf
-430. NFC (Near Field Communication) - NFC (Komunikasi Lapangan Dekat)
-431. Noise reduction - Reduksi kebisingan
-432. Non-volatile memory - Memori tidak volatil
-433. Notebook computer - Komputer notebook
-434. NTFS (New Technology File System) - NTFS (Sistem Berkas Teknologi Baru)
-435. NUI (Natural User Interface) - NUI (Antarmuka Pengguna Alami)
-436. OCR (Optical Character Recognition) - OCR (Pengenalan Karakter Optik)
-437. Offline - Offline
-438. On-the-fly - Pada saat itu
-439. Online - Online
-440. Opcode - Kode operasi
-441. Open-source software - Perangkat lunak sumber terbuka
-442. OpenGL - OpenGL
-443. Operating environment - Lingkungan operasi
-444. Optical disc - Disk optik
-445. Oracle - Oracle
-446. ORM (Object-Relational Mapping) - ORM (Pemetaan Objek-Relasional)
-447. Output device - Perangkat keluaran
-448. Overhead - Biaya tambahan
-449. Overload - Beban berlebihan
-450. P2P (Peer-to-Peer) - P2P (Peer-to-Peer)
-451. Packet - Paket
-452. Packet sniffing - Pengendus paket
-453. Packet switching - Pengalihan paket
-454. Paginate - Paginasi
-455. Page fault - Kesalahan halaman
-456. Page layout - Tata letak halaman
-457. Page view - Tampilan halaman
-458. Pair programming - Pemrograman berpasangan
-459. Parallel computing - Komputasi paralel
-460. Parasitic computing - Komputasi parasit
-461. Parent directory - Direktori induk
-462. Password manager - Manajer kata sandi
-463. Patch management - Manajemen patch
-464. Payload - Muatan
-465. Peer review - Tinjauan rekan
-466. Peer-to-peer network - Jaringan peer-to-peer
-467. Penetration testing - Pengujian penetrasi
-468. Peripheral device - Perangkat periferal
-469. Personal computer (PC) - Komputer pribadi (PC)
-470. Petabyte - Petabita
-471. Phablet - Phablet
-472. Phishing kit - Kit phishing
-473. Physical address - Alamat fisik
-474. Pinging - Pinging
-475. Pixelation - Pikselasi
-476. Platform as a Service (PaaS) - Platform sebagai Layanan (PaaS)
-477. Plug-in - Plug-in
-478. Pointer - Penunjuk
-479. Polyfill - Polyfill
-480. Port forwarding - Penerusan port
-481. Portal - Portal
-482. Postback - Postback
-483. Post-processing - Pemrosesan pasca
-484. Power-on self-test (POST) - Pengujian diri saat dinyalakan (POST)
-485. Predictive analytics - Analitik prediktif
-486. Primary memory - Memori utama
-487. Print queue - Antrian cetak
-488. Privacy policy - Kebijakan privasi
-489. Processor architecture - Arsitektur prosesor
-490. Progressive enhancement - Peningkatan progresif
-491. Project management software - Perangkat lunak manajemen proyek
-492. Proof of concept - Bukti konsep
-493. Protocol stack - Tumpukan protokol
-494. Proxy server - Server proxy
-495. Public key infrastructure (PKI) - Infrastruktur kunci publik (PKI)
-496. QR code - Kode QR
-497. Quality assurance (QA) - Jaminan kualitas (QA)
-498. Quantum computing - Komputasi kuantum
-499. Query - Pertanyaan
-500. RAID (Redundant Array of Independent Disks) - RAID (Rantai Array Tidak Mandiri)
+1. 3D printing - Percetakan 3D
+2. 4K resolution - Resolusi 4K
+3. Access control - Kontrol akses
+4. Adaptive software - Perangkat lunak adaptif
+5. Adware - Perangkat lunak iklan
+6. Algorithm - Algoritma
+7. Algorithmic trading - Perdagangan algoritmik
+8. Ambient computing - Komputasi ambiens
+9. Analog - Analog
+10. Animation - Animasi
+11. Anonymizer - Anonimiser
+12. Antivirus - Antivirus
+13. API (Application Programming Interface) - API (Antarmuka Pemrograman Aplikasi)
+14. App - Aplikasi
+15. Application - Aplikasi
+16. Archiving - Pengarsipan
+17. ARP (Address Resolution Protocol) - ARP (Protokol Resolusi Alamat)
+18. Artificial Intelligence (AI) - Kecerdasan Buatan (AI)
+19. Augmented Reality (AR) - Realitas Tertambah (AR)
+20. Authentication - Otentikasi
+21. Authentication token - Token otentikasi
+22. Autoresponder - Autoresponder
+23. Avatar - Avatar
+24. Backend - Backend
+25. Bandwidth - Lebar pita
+26. Bandwidth throttling - Penyesuaian lebar b...
+27. Base64 - Basis64
+28. Benchmark - Tolak ukur
+29. Big Data - Data besar
+30. Binary - Biner
+31. Binary tree - Pohon biner
+32. BIOS - BIOS
+33. BIOS update - Pembaruan BIOS
+34. Bit - Bit
+35. Bit rate - Laju bit
+36. Bitmap - Bitmap
+37. Black hat - Topi hitam
+38. Blockchain - Rantai blok
+39. Bluetooth - Bluetooth
+40. Bluetooth LE (Low Energy) - Bluetooth LE (Energi Rendah)
+41. Bookmark - Tandai
+42. Boolean - Boolean
+43. Bot - Bot
+44. Bootstrap - Bootstrap
+45. Brute force - Paksaan kasar
+46. Buffer - Buffer
+47. Buffer overflow - Tumpah buffer
+48. Bug - Bug
+49. Buggy - Kecelakaan
+50. Build automation - Automatisasi pembangunan
+51. Burn - Bakar
+52. Bus - Bus
+53. Byte - Byte
+54. Bytecode - Kode byte
+55. Cache - Cache
+56. CAPTCHA - CAPTCHA
+57. CAP theorem - Teorema CAP
+58. Cascading Style Sheets (CSS) - Cascading Style Sheets (CSS)
+59. Chatbot - Bot obrolan
+60. Chmod - Chmod
+61. Chromebook - Chromebook
+62. Chromecast - Chromecast
+63. CIM (Common Information Model) - CIM (Model Informasi Umum)
+64. Clickbait - Umpan klik
+65. Clipboard - Papan klip
+66. Cloning - Penggandakan
+67. Cloud computing - Komputasi awan
+68. CMS (Content Management System) - CMS (Sistem Manajemen Konten)
+69. Coaxial cable - Kabel koaksial
+70. Codec - Codec
+71. Code - Kode
+72. Coding - Kode
+73. Cognitive computing - Komputasi kognitif
+74. Cold boot - Boot dingin
+75. Collaboration software - Perangkat lunak kolaborasi
+76. Collision detection - Deteksi tabrakan
+77. Color depth - Kedalaman warna
+78. Command line - Baris perintah
+79. Comment - Komentar
+80. Common Gateway Interface (CGI) - Antarmuka Gerbang Umum (CGI)
+81. Compiler - Kompilator
+82. Compiler optimization - Optimisasi kompilator
+83. Computer - Komputer
+84. Computer-aided design (CAD) - Desain bantu komputer (CAD)
+85. Computer-aided manufacturing (CAM) - Manufaktur bantu komputer (CAM)
+86. Concatenation - Penggabungan
+87. Conditional statement - Pernyataan kondisional
+88. Confidentiality - Kerahasiaan
+89. Configuration - Konfigurasi
+90. Connection pool - Kolam koneksi
+91. Connector - Penghubung
+92. Console - Konsol
+93. Content delivery network (CDN) - Jaringan pengiriman konten (CDN)
+94. Content management - Manajemen konten
+95. Context menu - Menu konteks
+96. Cookie cutter - Cookie cutter
+97. Cookies - Kue kering
+98. Copy-paste - Salin-tempel
+99. Copywriting - Penulisan salinan
+100. CORS (Cross-Origin Resource Sharing) - CORS (Pem...
+101. Counter - Penghitung
+102. Crash - Crash
+103. Crash dump - Dump crash
+104. CRC (Cyclic Redundancy Check) - CRC (Pemeriksaan Redundansi Siklik)
+105. CRUD (Create, Read, Update, Delete) - CRUD (Buat, Baca, Perbarui, Hapus)
+106. Cryptocurrency - Mata uang kripto
+107. Cryptography - Kriptografi
+108. CSS framework - Kerangka CSS
+109. CSS preprocessors - Pra-pemroses CSS
+110. CSS reset - Reset CSS
+111. Cyberbullying - Penindasan siber
+112. Cybersecurity - Keamanan siber
+113. Data - Data
+114. Data center - Pusat data
+115. Data compression - Kompresi data
+116. Data encryption - Enkripsi data
+117. Data mining - Pertambangan data
+118. Data model - Model data
+119. Data normalization - Normalisasi data
+120. Data science - Ilmu data
+121. Data structure - Struktur data
+122. Database - Basis data
+123. Database management system (DBMS) - Sistem manajemen basis data (DBMS)
+124. Database server - Server basis data
+125. Deadlock - Kekakuan
+126. Debug - Debug
+127. Debugger - Pemdebug
+128. Debugging - Debugging
+129. Declaration - Deklarasi
+130. Decoding - Dekode
+131. Decompiler - Decompiler
+132. Deep learning - Pembelajaran mendalam
+133. Default - Bawaan
+134. Dependency - Ketergantungan
+135. Desktop - Desktop
+136. Desktop environment - Lingkungan desktop
+137. Development - Pengembangan
+138. DevOps (Development and Operations) - DevOps (Pengembangan dan Operasi)
+139. DHCP (Dynamic Host Configuration Protocol) - DHCP (Protokol Konfigurasi Host Dinamis)
+140. DHTML (Dynamic HTML) - DHTML (HTML Dinamis)
+141. Diagram - Diagram
+142. Dialog - Dialog
+143. Digital - Digital
+144. Digital divide - Pemisahan digital
+145. Digital footprint - Jejak digital
+146. Digital signature - Tanda tangan digital
+147. Directory - Direktori
+148. Directory traversal - Traversal direktori
+149. Disk drive - Pemacu cakera
+150. Disk partition - Partisi disk
+151. Display resolution - Resolusi tampilan
+152. Distributed computing - Komputasi terdistribusi
+153. Distributed denial-of-service (DDoS) - Penolakan layanan terdistribusi (DDoS)
+154. Div - Div
+155. DNS (Domain Name System) - DNS (Sistem Nama Domain)
+156. DNS spoofing - Pemalsuan DNS
+157. Docker - Docker
+158. Document - Dokumen
+159. Document object model (DOM) - Model objek dokumen (DOM)
+160. Domain - Domain
+161. Domain registrar - Registrar domain
+162. Domain-specific language (DSL) - Bahasa khusus domain (DSL)
+163. DOM manipulation - Manipulasi DOM
+164. DoS (Denial of Service) - DoS (Penolakan Layanan)
+165. Download - Unduh
+166. Drag and drop - Tarik dan lepas
+167. DRM (Digital Rights Management) - DRM (Manajemen Hak Digital)
+168. Driver - Driver
+169. Driver update - Pembaruan driver
+170. Dropper - Penetes
+171. DSL (Digital Subscriber Line) - DSL (Garis Pelanggan Digital)
+172. Dual-boot - Dual-boot
+173. Dynamic DNS - DNS dinamis
+174. Dynamic HTML - HTML dinamis
+175. Dynamic IP address - Alamat IP dinamis
+176. Dynamic programming - Pemrograman dinamis
+177. Dynamic web page - Halaman web dinamis
+178. ECMAScript - ECMAScript
+179. E-commerce - E-commerce
+180. Edge computing - Komputasi tepi
+181. Editor - Editor
+182. EFI (Extensible Firmware Interface) - EFI (Antarmuka Firmware yang Diperluas)
+183. EFS (Encrypting File System) - EFS (Sistem Berkas yang Dikodekan)
+184. Egress - Keluar
+185. Elastic computing - Komputasi elastis
+186. Electric charge - Muatan listrik
+187. Electronic commerce (e-commerce) - E-commerce elektronik (e-commerce)
+188. Electronic data interchange (EDI) - Pertukaran data elektronik (EDI)
+189. Electronic mail (email) - Surat elektronik (email)
+190. Electronic payment - Pembayaran elektronik
+191. Electronic signature - Tanda tangan elektronik
+192. Elliptic curve cryptography (ECC) - Kriptografi kurva elips (ECC)
+193. Email - Email
+194. Email client - Klien email
+195. Email filtering - Penyaringan email
+196. Email server - Server email
+197. Email spoofing - Pemalsuan email
+198. Embedded system - Sistem tertanam
+199. Emoticon - Emotikon
+200. Encryption - Enkripsi
+201. Endpoint - Titik akhir
+202. Endpoint security - Keamanan titik akhir
+203. Energy harvesting - Pemanenan energi
+204. Energy storage - Penyimpanan energi
+205. Energy-efficient computing - Komputasi hemat energi
+206. Engine - Mesin
+207. Entity - Entitas
+208. Environment - Lingkungan
+209. Environmental control system - Sistem kontrol lingkungan
+210. Environmental monitoring - Pemantauan lingkungan
+211. EPUB (Electronic Publication) - EPUB (Publikasi Elektronik)
+212. Ergonomics - Ergonomi
+213. Error - Kesalahan
+214. Error detection and correction - Deteksi dan perbaikan kesalahan
+215. Error message - Pesan kesalahan
+216. Ethernet - Ethernet
+217. Ethernet cable - Kabel Ethernet
+218. Ethernet switch - Switch Ethernet
+219. Event - Acara
+220. Event handler - Penangan acara
+221. Event listener - Pendengar acara
+222. Event-driven programming - Pemrograman berbasis acara
+223. Evolutionary algorithm - Algoritma evolusioner
+224. Exception - Pengecualian
+225. Exception handling - Penanganan pengecualian
+226. Exif (Exchangeable Image File Format) - Exif (Format Berkas Gambar Yang Dapat Ditukar)
+227. Exit - Keluar
+228. Exploit - Manfaatkan
+229. Extension - Ekstensi
+230. External storage - Penyimpanan eksternal
+231. Externalization - Eksternalisasi
+232. Extract-transform-load (ETL) - Ekstrak-transformasi-muat (ETL)
+233. Fallback - Cadangan
+234. False positive - Positif palsu
+235. FAQ (Frequently Asked Questions) - FAQ (Pertanyaan yang Sering Diajukan)
+236. FAT (File Allocation Table) - FAT (Tabel Penugasan Berkas)
+237. Favicon - Favicon
+238. Fax (Facsimile) - Faks (Faksimile)
+239. Feature - Fitur
+240. Feature detection - Deteksi fitur
+241. Feature extraction - Ekstraksi fitur
+242. Feature toggle - Sakelar fitur
+243. Feedback - Umpan balik
+244. Fetch - Ambil
+245. Field - Lapangan
+246. Field-programmable gate array (FPGA) - Array gerbang terprogram lapangan (FPGA)
+247. File - Berkas
+248. File compression - Kompresi berkas
+249. File extension - Ekstensi berkas
+250. File format - Format berkas
+251. File hosting service - Layanan hosting berkas
+252. File server - Server berkas
+253. File system - Sistem berkas
+254. Filename - Nama berkas
+255. Filtering - Penyaringan
+256. Firmware - Firmware
+257. Firmware update - Pembaruan firmware
+258. Firewall - Firewall
+259. Firmware - Firmware
+260. Flash drive - Pemacu flash
+261. Flash memory - Memori flash
+262. Flashing - Flashing
+263. Flash storage - Penyimpanan flash
+264. Flat design - Desain datar
+265. Flat-file database - Basis data berkas datar
+266. Floating point - Titik apung
+267. Floppy disk - Disket
+268. Floppy disk drive - Pemacu disket
+269. FLOPS (Floating Point Operations Per Second) - FLOPS (Operasi Titik Apung Per Detik)
+270. Flowchart - Diagram alir
+271. Flutter - Gemetar
+272. Focused crawling - Pencarian fokus
+273. Folder - Folder
+274. Folder tree - Pohon folder
+275. Footer - Kaki halaman
+276. Foreign key - Kunci asing
+277. Fork - Fork
+278. Form - Formulir
+279. Form factor - Faktor bentuk
+280. Forward compatibility - Kompatibilitas ke depan
+281. Forward error correction - Koreksi kesalahan maju
+282. Forwarding - Penerusan
+283. Framework - Kerangka kerja
+284. Freeware - Perangkat lunak bebas
+285. Frequency - Frekuensi
+286. Frequency band - Pita frekuensi
+287. Frequency modulation - Modulasi frekuensi
+288. Frequency response - Respons frekuensi
+289. FTP (File Transfer Protocol) - FTP (Protokol Transfer Berkas)
+290. FTP server - Server FTP
+291. Full stack developer - Pengembang tumpukan penuh
+292. Full-text search - Pencarian teks lengkap
+293. Function - Fungsi
+294. Functional programming - Pemrograman fungsional
+295. Function overloading - Beban fungsi
+296. Functionality - Fungsionalitas
+297. Fuzzy logic - Logika kabur
+298. Fuzzing - Fuzzing
+299. Gantt chart - Diagram Gantt
+300. Gateway - Gerbang
+301. Gateway router - Router gerbang
+302. Gbps (Gigabits Per Second) - Gbps (Gigabit Per Detik)
+303. GC (Garbage Collection) - GC (Pengumpulan Sampah)
+304. Geotagging - Geotagging
+305. Gesture recognition - Pengenalan gerakan
+306. GIF (Graphics Interchange Format) - GIF (Format Pertukaran Grafis)
+307. Git - Git
+308. GitHub - GitHub
+309. GitLab - GitLab
+310. Glassware - Barang kaca
+311. Global navigation satellite system (GNSS) - Sistem satelit navigasi global (GNSS)
+312. Glossary - Daftar istilah
+313. GPG (GNU Privacy Guard) - GPG (Pengawal Privasi GNU)
+314. GPU (Graphics Processing Unit) - GPU (Unit Pemrosesan Grafis)
+315. GPS (Global Positioning System) - GPS (Sistem Penentuan Posisi Global)
+316. GPS receiver - Penerima GPS
+317. GPS tracking - Pelacakan GPS
+318. Gradient descent - Penurunan gradien
+319. Graphic design - Desain grafis
+320. Graphic processing unit (GPU) - Unit pemrosesan grafis (GPU)
+321. Graphical user interface (GUI) - Antarmuka pengguna grafis (GUI)
+322. Graphics card - Kartu grafis
+323. Graphics interchange format (GIF) - Format pertukaran grafis (GIF)
+324. Green computing - Komputasi hijau
+325. Grid computing - Komputasi grid
+326. GRUB (Grand Unified Bootloader) - GRUB (Pemuat Pemersatu Besar)
+327. GUI testing - Pengujian GUI
+328. Guest operating system - Sistem operasi tamu
+329. GUI (Graphical User Interface) - GUI (Antarmuka Pengguna Grafis)
+330. Gutenberg - Gutenberg
+331. Hacker - Peretas
+332. Hacker culture - Budaya peretas
+333. Hacktivism - Hacktivisme
+334. Halftone - Setengah nada
+335. Hard disk - Cakera keras
+336. Hard disk drive (HDD) - Pemacu cakera keras (HDD)
+337. Hardening - Penguatan
+338. Hardware - Perangkat keras
+339. Hardware abstraction - Abstraksi perangkat keras
+340. Hardware acceleration - Akselerasi perangkat keras
+341. Hardware firewall - Firewall perangkat keras
+342. Hardware interrupt - Gangguan perangkat keras
+343. Hardware keylogger - Keylogger perangkat keras
+344. Hardware RAID - RAID perangkat keras
+345. Hardware security module (HSM) - Modul keamanan perangkat keras (HSM)
+346. Hash function - Fungsi hash
+347. Hash table - Tabel hash
+348. Haptic technology - Teknologi haptik
+349. Header - Header
+350. Header file - Berkas header
+351. Headless - Tanpa kepala
+352. Heat map - Peta panas
+353. Heat sink - Pendingin
+354. Heuristic analysis - Analisis heuristik
+355. Hidden Markov model (HMM) - Model Markov tersembunyi (HMM)
+356. Hierarchical database - Basis data hierarkis
+357. High availability - Ketersediaan tinggi
+358. High-level language - Bahasa tingkat tinggi
+359. High-performance computing (HPC) - Komputasi berkinerja tinggi (HPC)
+360. High-resolution - Resolusi tinggi
+361. High-speed internet - Internet berkecepatan tinggi
+362. Honeypot - Honeypot
+363. Hooking - Pengaitan
+364. Host - Tuan rumah
+365. Hosting - Hosting
+366. Hotfix - Perbaikan cepat
+367. Hotspot - Hotspot
+368. Hotspot (Wi-Fi) - Hotspot (Wi-Fi)
+369. HTML (Hypertext Markup Language) - HTML (Bahasa Pemformatan Hiperteks)
+370. HTML5 - HTML5
+371. HTML attribute - Atribut HTML
+372. HTML element - Elemen HTML
+373. HTML entity - Entitas HTML
+374. HTML tag - Tag HTML
+375. HTTP (Hypertext Transfer Protocol) - HTTP (Protokol Transfer Hiperteks)
+376. HTTP cookie - Kue HTTP
+377. HTTP header - Header HTTP
+378. HTTP method - Metode HTTP
+379. HTTPS (Hypertext Transfer Protocol Secure) - HTTPS (Protokol Transfer Hiperteks Aman)
+380. Hub - Hub
+381. Human-computer interaction (HCI) - Interaksi manusia dan komputer (HCI)
+382. Hybrid cloud - Awan hibrida
+383. Hybrid integration platform (HIP) - Platform integrasi hibrida (HIP)
+384. Hybrid topology - Topologi hibrida
+385. Hyperlink - Hyperlink
+386. Hypermedia - Hypermedia
+387. Hypervisor - Hipervisor
+388. Hypertext - Hiperteks
+389. Hypertext Transfer Protocol (HTTP) - Protokol Transfer Hiperteks (HTTP)
+390. Hypervisor - Hipervisor
+391. IaaS (Infrastructure as a Service) - IaaS (Infrastruktur sebagai Layanan)
+392. IAAS (Intelligent Automation and Artificial Intelligence Systems) - IAAS (Sistem Otomatisasi Intelijen dan Kecerdasan Buatan)
+393. I/O (Input/Output) - I/O (Masukan/Keluaran)
+394. ICMP (Internet Control Message Protocol) - ICMP (Protokol Pesan Kontrol Internet)
+395. IDE (Integrated Development Environment) - IDE (Lingkungan Pengembangan Terpadu)
+396. IDE (Integrated Development Environment) - IDE (Lingkungan Pengembangan Terpadu)
+397. Identifier - Pengenal
+398. Identity - Identitas
+399. Identity theft - Pencurian identitas
+400. IEEE 802.11 - IEEE 802.11
+401. Iframe (Inline Frame) - Iframe (Bingkai Dalam Baris)
+402. IFTTT (If This, Then That) - IFTTT (Jika Ini, Maka Itu)
+403. IIS (Internet Information Services) - IIS (Layanan Informasi Internet)
+404. I/O (Input/Output) - I/O (Masukan/Keluaran)
+405. IMAP (Internet Message Access Protocol) - IMAP (Protokol Akses Pesan Internet)
+406. Immutable object - Objek tak berubah
+407. Implementation - Implementasi
+408. In-app purchase - Pembelian di dalam aplikasi
+409. Inbound marketing - Pemasaran masuk
+410. Incremental backup - Cadangan bertahap
+411. Index - Indeks
+412. Indexed search - Pencarian terindeks
+413. Indexing - Pengindeksan
+414. Inference - Inferensi
+415. Inference engine - Mesin inferensi
+416. Information - Informasi
+417. Information architecture - Arsitektur informasi
+418. Information retrieval - Pengambilan informasi
+419. Information security - Keamanan informasi
+420. Information system - Sistem informasi
+421. Information technology (IT) - Teknologi informasi (TI)
+422. Inheritance - Pewarisan
+423. Inline - Inline
+424. Inline styling - Gaya inline
+425. Inline frame (Iframe) - Bingkai dalam baris (Iframe)
+426. In-memory computing - Komputasi dalam memori
+427. Input device - Perangkat masukan
+428. Input/output (I/O) - Masukan/keluaran (I/O)
+429. Input method - Metode masukan
+430. Insertion sort - Pengurutan penyisipan
+431. Instance - Contoh
+432. Instant messaging - Pesan instan
+433. Integrated circuit - Sirkuit terpadu
+434. Integrated development environment (IDE) - Lingkungan pengembangan terpadu (IDE)
+435. Integration - Integrasi
+436. Integration platform - Platform integrasi
+437. Integrity - Integritas
+438. Intellectual property - Kekayaan intelektual
+439. Interaction design - Desain interaksi
+440. Interactive - Interaktif
+441. Interface - Antarmuka
+442. Interface builder - Pembuat antarmuka
+443. Internet - Internet
+444. Internet of Things (IoT) - Internet of Things (IoT)
+445. Internet Protocol (IP) - Protokol Internet (IP)
+446. Internet Protocol address (IP address) - Alamat Protokol Internet (alamat IP)
+447. Internet service provider (ISP) - Penyedia layanan internet (ISP)
+448. Interoperability - Interoperabilitas
+449. Interpolation - Interpolasi
+450. Interpreter - Penerjemah
+451. Interrupt - Gangguan
+452. Intrusion - Penyusupan
+453. Intrusion detection system (IDS) - Sistem pendeteksi penyusup
+518. Linear regression - Regresi linier
+519. LinkedIn - LinkedIn
+520. Linux - Linux
+521. Linux distribution - Distribusi Linux
+522. Linux kernel - Kernel Linux
+523. List - Daftar
+524. Literal - Literal
+525. Load balancing - Penyeimbangan beban
+526. Local area network (LAN) - Jaringan area lokal (LAN)
+527. Localhost - Lokalhost
+528. Localization - Lokalisasi
+529. Lock - Kunci
+530. Log file - Berkas log
+531. Logic bomb - Bom logika
+532. Logic gate - Gerbang logika
+533. Logical address - Alamat logis
+534. Logical AND - DAN logis
+535. Logical OR - ATAU logis
+536. Login - Masuk
+537. Logoff - Keluar
+538. Logon - Masuk
+539. Logout - Keluar
+540. Long-tail keywords - Kata kunci ekor panjang
+541. Loop - Loop
+542. Lossless compression - Kompresi tanpa kehilangan
+543. Lossy compression - Kompresi berkehilangan
+544. Low-level language - Bahasa tingkat rendah
+545. Low-power mode - Mode daya rendah
+546. LRU (Least Recently Used) - LRU (Paling Baru yang Paling Sedikit Digunakan)
+547. LTE (Long-Term Evolution) - LTE (Evolusi Jangka Panjang)
+548. LUN (Logical Unit Number) - LUN (Nomor Unit Logis)
+549. Machine code - Kode mesin
+550. Machine learning - Pembelajaran mesin
+551. Machine vision - Visi mesin
+552. Macro - Makro
+553. MAC address (Media Access Control address) - Alamat MAC (alamat Kontrol Akses Media)
+554. MacOS - MacOS
+555. Magento - Magento
+556. Magnetic stripe card - Kartu pita magnetik
+557. Mainframe - Mesin utama
+558. Malicious software - Perangkat lunak jahat
+559. Malware - Malware
+560. MAN (Metropolitan Area Network) - MAN (Jaringan Area Metropolitan)
+561. Manifest file - Berkas manifes
+562. MapReduce - MapReduce
+563. Markup language - Bahasa markup
+564. Mashup - Mashup
+565. Masking - Masking
+566. Master node - Node master
+567. Material design - Desain material
+568. MATLAB - MATLAB
+569. MD5 (Message Digest Algorithm 5) - MD5 (Algoritma Pencernaan Pesan 5)
+570. Media access control (MAC) - Kontrol akses media (MAC)
+571. Megabyte - Megabita
+572. Memory - Memori
+573. Memory leak - Kebocoran memori
+574. Menu - Menu
+575. Menu bar - Bilah menu
+576. Merchant account - Akun pedagang
+577. Merchant services - Layanan pedagang
+578. Message - Pesan
+579. Metadata - Metadata
+580. Metasploit - Metasploit
+581. Method - Metode
+582. Microblogging - Microblogging
+583. Microcontroller - Mikrokontroler
+584. Microphone - Mikrofon
+585. Microprocessor - Mikroprosesor
+586. Microservices - Microservices
+587. Middleware - Middleware
+588. MIME (Multipurpose Internet Mail Extensions) - MIME (Perluasan Surat Internet Berbagai Tujuan)
+589. Mini-ITX - Mini-ITX
+590. Mining - Penambangan
+591. MINIX - MINIX
+592. Minification - Penyusutan
+593. Minigame - Minigame
+594. MIPS (Million Instructions Per Second) - MIPS (Juta Instruksi Per Detik)
+595. MITM (Man-In-The-Middle) - MITM (Manusia di Tengah)
+596. Mobile - Seluler
+597. Mobile app - Aplikasi seluler
+598. Mobile broadband - Broadband seluler
+599. Mobile computing - Komputasi seluler
+600. Mobile device - Perangkat seluler
 
 Defitions:
 1. Algorithm: A step-by-step procedure or formula for solving a problem or accomplishing a task, especially for performing calculations or automated reasoning.
