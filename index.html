@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dictionary By Rizky Ganuar</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    <header>
+    <div class="container">
         <h1>Dictionary By Rizky Ganuar</h1>
-        <div class="search-container">
+        <div class="search-bar">
             <input type="text" id="searchTerm" placeholder="Search..." oninput="search()">
-            <button onclick="search()">Search</button>
         </div>
-    </header>
-    <main id="dictionary">
-        <!-- Words will be dynamically generated here -->
-    </main>
+        <div class="dictionary" id="dictionary">
+            <!-- Dictionary entries will be rendered here -->
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
+
 </html>
