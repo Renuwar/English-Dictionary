@@ -1,57 +1,46 @@
-/* CSS for the dictionary */
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
 }
 
 .container {
-  max-width: 800px;
-  margin: auto;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.search-box {
-  margin-bottom: 20px;
+h1 {
+    text-align: center;
+    color: #333;
 }
 
-.term-table {
-  margin-bottom: 20px;
-  border-collapse: collapse;
-  width: 100%;
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
 }
 
-.term-table th {
-  background-color: #4CAF50;
-  color: white;
-  padding: 8px;
-  text-align: left;
+#dictionaryList {
+    list-style-type: none;
+    padding: 0;
 }
 
-.term-table td {
-  padding: 8px;
-  border-bottom: 1px solid #ddd;
+#dictionaryList li {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
 }
 
-.term-table tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-.term-table.blue th {
-  background-color: #2196F3;
-}
-
-.term-table.orange th {
-  background-color: #FF9800;
-}
-
-.term-table.purple th {
-  background-color: #9C27B0;
-}
-
-.term-table.green th {
-  background-color: #4CAF50;
-}
-
-.term-table.red th {
-  background-color: #F44336;
+#dictionaryList li strong {
+    font-weight: bold;
 }
