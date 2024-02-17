@@ -1,6 +1,3 @@
-Certainly! Here's the JavaScript script with all the listed words and their translations:
-
-```javascript
 document.addEventListener("DOMContentLoaded", function() {
     const dictionary = [
         { term: "3D printing", definition: "Percetakan 3D" },
