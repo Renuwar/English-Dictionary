@@ -1,66 +1,84 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
+    background-color: #f5f5f5; /* Light grey background */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
-  max-width: 1200px;
-  margin: auto;
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 0 20px;
 }
 
-.search-box {
-  margin-bottom: 20px;
+h1 {
+    text-align: center;
+    color: #333;
 }
 
-.columns {
-  display: flex;
-  flex-wrap: wrap;
+#searchBox {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#searchTerm {
+    padding: 8px;
+    width: 300px;
+}
+
+.button {
+    padding: 8px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+#dictionaryContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .column {
-  width: 20%;
-  padding: 0 10px;
+    width: 48%; /* Adjust as needed */
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
 }
 
 .term-table {
-  margin-bottom: 20px;
-  border-collapse: collapse;
-  width: 100%;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.term-table th, .term-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
 }
 
 .term-table th {
-  background-color: #4CAF50;
-  color: white;
-  padding: 8px;
-  text-align: left;
+    background-color: #3498db; /* Blue header */
+    color: white;
 }
 
 .term-table td {
-  padding: 8px;
-  border-bottom: 1px solid #ddd;
+    background-color: #f1c40f; /* Yellow definition */
 }
 
-.term-table tr:nth-child(even) {
-  background-color: #f2f2f2;
+.blue {
+    background-color: #3498db;
+    color: white;
 }
 
-.term-table.blue th {
-  background-color: #2196F3;
-}
-
-.term-table.orange th {
-  background-color: #FF9800;
-}
-
-.term-table.purple th {
-  background-color: #9C27B0;
-}
-
-.term-table.green th {
-  background-color: #4CAF50;
-}
-
-.term-table.red th {
-  background-color: #F44336;
+.orange {
+    background-color: #f1c40f;
+    color: black;
 }
