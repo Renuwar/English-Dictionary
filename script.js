@@ -653,8 +653,13 @@ renderDictionary(dictionary);
 // Function to search for a term
 function search() {
     var searchTerm = document.getElementById('searchTerm').value.toLowerCase();
-    var searchResults = dictionary.filter(function(term) {
-        return term.term.toLowerCase().includes(searchTerm);
-    });
+    var searchResults = [];
+    if (searchTerm.trim() !== '') {
+        searchResults = dictionary.filter(function(term) {
+            return term.term.toLowerCase().includes(searchTerm);
+        });
+    } else {
+        searchResults = dictionary; // Show all terms if search input is empty
+    }
     renderDictionary(searchResults);
 }
