@@ -1,19 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dictionary</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <div class="container">
         <h1>Dictionary</h1>
-        <input type="text" id="searchInput" placeholder="Search...">
-        <ul id="dictionaryList">
-            <!-- Add the list items dynamically using JavaScript -->
-        </ul>
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search...">
+            <button onclick="searchDictionary()">Search</button>
+        </div>
+        <div class="columns">
+            <div class="column">
+                <table class="term-table blue" id="column1">
+                    <tr>
+                        <th>Term</th>
+                        <th>Translation</th>
+                    </tr>
+                </table>
+            </div>
+            <div class="column">
+                <table class="term-table orange" id="column2">
+                    <tr>
+                        <th>Term</th>
+                        <th>Translation</th>
+                    </tr>
+                </table>
+            </div>
+            <div class="column">
+                <table class="term-table purple" id="column3">
+                    <tr>
+                        <th>Term</th>
+                        <th>Translation</th>
+                    </tr>
+                </table>
+            </div>
+            <div class="column">
+                <table class="term-table green" id="column4">
+                    <tr>
+                        <th>Term</th>
+                        <th>Translation</th>
+                    </tr>
+                </table>
+            </div>
+            <div class="column">
+                <table class="term-table red" id="column5">
+                    <tr>
+                        <th>Term</th>
+                        <th>Translation</th>
+                    </tr>
+                </table>
+            </div>
+        </div>
     </div>
+
     <script src="script.js"></script>
 </body>
+
 </html>
