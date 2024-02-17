@@ -348,7 +348,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { term: "Packet sniffing", definition: "Pengendus paket" },
         { term: "Page", definition: "Halaman" },
         { term: "Page layout", definition: "Tata letak halaman" },
-        { term: "Page rank", definition: "Peringkat halaman"},
+        { term: "Page rank", definition: "Peringkat halaman" },
         { term: "Parallel computing", definition: "Komputasi paralel" },
         { term: "Parameter", definition: "Parameter" },
         { term: "Parent directory", definition: "Direktori induk" },
@@ -620,9 +620,9 @@ document.addEventListener("DOMContentLoaded", function() {
         { term: "Zettabyte", definition: "Zettabyte" },
         { term: "ZIP", definition: "ZIP" },
         { term: "Zoom", definition: "Zoom" },
-        { term: "Zombie", definition: "Zombie" } 
+        { term: "Zombie", definition: "Zombie" }
     ];
-    
+
     const list = document.getElementById("dictionaryList");
     const searchInput = document.getElementById("searchInput");
 
