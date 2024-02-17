@@ -1,84 +1,49 @@
 body {
-    background-color: #d6b45e; /* Light grey background */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f0f0f0; /* Light grey background */
 }
 
-.container {
-    max-width: 960px;
-    margin: 20px auto;
-    padding: 0 20px;
+header {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
 h1 {
-    text-align: center;
-    color: #333;
+    margin: 0;
 }
 
-#searchBox {
-    margin-bottom: 20px;
-    text-align: center; /* Centering the search box */
-}
-
-#searchTerm {
+input[type="text"] {
     padding: 8px;
-    width: 300px;
+    margin-top: 10px;
+    width: 30%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
 }
 
-.button {
-    padding: 8px 20px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    cursor: pointer;
+.container {
+    margin: 20px auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
 }
 
-.button:hover {
-    background-color: #45a049;
-}
-
-#dictionaryContainer {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.column {
-    width: 48%; /* Adjust as needed */
-    margin-bottom: 20px;
+.dictionary-item {
     background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
 
-.term-table {
-    width: 100%;
-    border-collapse: collapse;
+.dictionary-item h3 {
+    margin-top: 0;
 }
 
-.term-table th, .term-table td {
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-}
-
-.term-table th {
-    background-color: #3498db; /* Blue header */
-    color: white;
-}
-
-.term-table td {
-    background-color: #f1c40f; /* Yellow definition */
-}
-
-.blue {
-    background-color: #3498db;
-    color: white;
-}
-
-.orange {
-    background-color: #f1c40f;
-    color: black;
+.dictionary-item p {
+    margin-bottom: 0;
 }
