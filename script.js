@@ -1,5 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
-    const dictionary = [
+var dictionary = [
         { term: "3D printing", definition: "Percetakan 3D" },
         { term: "4K resolution", definition: "Resolusi 4K" },
         { term: "Access control", definition: "Kontrol akses" },
@@ -621,32 +620,40 @@ document.addEventListener("DOMContentLoaded", function() {
         { term: "ZIP", definition: "ZIP" },
         { term: "Zoom", definition: "Zoom" },
         { term: "Zombie", definition: "Zombie" }
-    ];
+];
 
-    const list = document.getElementById("dictionaryList");
-    const searchInput = document.getElementById("searchInput");
+// Function to render the dictionary
+function renderDictionary(terms) {
+    var container = document.getElementById('dictionaryContainer');
+    container.innerHTML = ''; // Clear previous content
 
-    function displayDictionary(terms) {
-        list.innerHTML = "";
-        terms.forEach(item => {
-            const li = document.createElement("li");
-            li.innerHTML = `<strong>${item.term}:</strong> ${item.definition}`;
-            list.appendChild(li);
-        });
-    }
-
-    function filterDictionary(searchTerm) {
-        const filteredTerms = dictionary.filter(item =>
-            item.term.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-        displayDictionary(filteredTerms);
-    }
-
-    searchInput.addEventListener("input", function() {
-        const searchTerm = this.value.trim();
-        filterDictionary(searchTerm);
+    terms.forEach(function(term) {
+        var termDiv = document.createElement('div');
+        termDiv.classList.add('column');
+        termDiv.innerHTML = `
+            <table class="term-table">
+                <tr>
+                    <th class="blue">Term</th>
+                    <th class="orange">Translation</th>
+                </tr>
+                <tr>
+                    <td>${term.term}</td>
+                    <td>${term.translation}</td>
+                </tr>
+            </table>
+        `;
+        container.appendChild(termDiv);
     });
+}
 
-    // Display all terms when the page loads
-    displayDictionary(dictionary);
-});
+// Initial rendering of the dictionary
+renderDictionary(dictionary);
+
+// Function to search for a term
+function search() {
+    var searchTerm = document.getElementById('searchTerm').value.toLowerCase();
+    var searchResults = dictionary.filter(function(term) {
+        return term.term.toLowerCase().includes(searchTerm);
+    });
+    renderDictionary(searchResults);
+}
