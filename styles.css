@@ -1,0 +1,57 @@
+/* CSS for the dictionary */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.search-box {
+  margin-bottom: 20px;
+}
+
+.term-table {
+  margin-bottom: 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.term-table th {
+  background-color: #4CAF50;
+  color: white;
+  padding: 8px;
+  text-align: left;
+}
+
+.term-table td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.term-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.term-table.blue th {
+  background-color: #2196F3;
+}
+
+.term-table.orange th {
+  background-color: #FF9800;
+}
+
+.term-table.purple th {
+  background-color: #9C27B0;
+}
+
+.term-table.green th {
+  background-color: #4CAF50;
+}
+
+.term-table.red th {
+  background-color: #F44336;
+}
