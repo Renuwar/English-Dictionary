@@ -3,24 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dictionary by Rizky Ganuar</title>
+    <title>Dictionary By Rizky Ganuar</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
-<div class="container">
-    <h1>Dictionary</h1>
-    
-    <div class="search-box">
-        <input type="text" id="searchTerm" placeholder="Search...">
-        <button onclick="search()">Search</button>
+    <div class="container">
+        <h1>Dictionary By Rizky Ganuar</h1>
+        <div id="searchBox">
+            <input type="text" id="searchTerm" placeholder="Search...">
+            <button class="button" onclick="searchDictionary()">Search</button>
+        </div>
+        <div id="dictionaryContainer"></div>
     </div>
-
-    <div class="columns" id="dictionaryContainer">
-        <!-- Terms will be dynamically inserted here -->
-    </div>
-</div>
-
-<script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
