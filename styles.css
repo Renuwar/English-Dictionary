@@ -1,66 +1,87 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
+    background-color: #f5f5f5; /* Light gray background */
+    font-family: Arial, sans-serif;
 }
 
 .container {
-  max-width: 1200px;
-  margin: auto;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+}
+
+h1 {
+    text-align: center;
+    color: #333;
 }
 
 .search-box {
-  margin-bottom: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-box input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.search-box button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 .columns {
-  display: flex;
-  flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .column {
-  width: 20%;
-  padding: 0 10px;
+    flex: 1;
+    padding: 10px;
 }
 
 .term-table {
-  margin-bottom: 20px;
-  border-collapse: collapse;
-  width: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
 }
 
 .term-table th {
-  background-color: #4CAF50;
-  color: white;
-  padding: 8px;
-  text-align: left;
+    background-color: #f2f2f2; /* Light gray */
+    padding: 10px;
+    text-align: left;
 }
 
 .term-table td {
-  padding: 8px;
-  border-bottom: 1px solid #ddd;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
 }
 
-.term-table tr:nth-child(even) {
-  background-color: #f2f2f2;
+.blue {
+    background-color: #2196F3; /* Blue */
 }
 
-.term-table.blue th {
-  background-color: #2196F3;
+.orange {
+    background-color: #FF9800; /* Orange */
 }
 
-.term-table.orange th {
-  background-color: #FF9800;
+.purple {
+    background-color: #9C27B0; /* Purple */
 }
 
-.term-table.purple th {
-  background-color: #9C27B0;
+.green {
+    background-color: #4CAF50; /* Green */
 }
 
-.term-table.green th {
-  background-color: #4CAF50;
-}
-
-.term-table.red th {
-  background-color: #F44336;
+.red {
+    background-color: #F44336; /* Red */
 }
