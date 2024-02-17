@@ -1,4 +1,3 @@
-// Dictionary data
 var dictionary = [
         { term: "3D printing", translation: "Percetakan 3D" },
         { term: "4K resolution", translation: "Resolusi 4K" },
@@ -643,7 +642,7 @@ function renderDictionary(terms) {
             <table class="term-table">
                 <tr>
                     <th class="blue">Term</th>
-                    <th class="orange">translation</th>
+                    <th class="orange">Translation</th>
                 </tr>
                 <tr>
                     <td>${term.term}</td>
