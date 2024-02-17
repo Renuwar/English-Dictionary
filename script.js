@@ -621,8 +621,8 @@ document.addEventListener("DOMContentLoaded", function() {
         { term: "ZIP", definition: "ZIP" },
         { term: "Zoom", definition: "Zoom" },
         { term: "Zombie", definition: "Zombie" } 
-        ]
-
+    ];
+    
     const list = document.getElementById("dictionaryList");
     const searchInput = document.getElementById("searchInput");
 
