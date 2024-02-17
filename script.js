@@ -1,4 +1,3 @@
-// Dictionary data
 var dictionary = [
         { term: "3D printing", definition: "Percetakan 3D" },
         { term: "4K resolution", definition: "Resolusi 4K" },
@@ -625,41 +624,29 @@ var dictionary = [
 
 // Function to render the dictionary
 function renderDictionary(terms) {
-    var container = document.getElementById('dictionaryContainer');
-    container.innerHTML = ''; // Clear previous content
+    var dictionaryContainer = document.getElementById('dictionary');
+    dictionaryContainer.innerHTML = '';
 
     terms.forEach(function(term) {
-        var termDiv = document.createElement('div');
-        termDiv.classList.add('column');
-        termDiv.innerHTML = `
-            <table class="term-table">
-                <tr>
-                    <th class="blue">Term</th>
-                    <th class="orange">Definition</th>
-                </tr>
-                <tr>
-                    <td>${term.term}</td>
-                    <td>${term.definition}</td>
-                </tr>
-            </table>
-        `;
-        container.appendChild(termDiv);
+        var termElement = document.createElement('div');
+        termElement.classList.add('term');
+
+        var html = '<h3>' + term.term + '</h3>';
+        html += '<p>' + term.definition + '</p>';
+
+        termElement.innerHTML = html;
+        dictionaryContainer.appendChild(termElement);
     });
 }
 
 // Initial rendering of the dictionary
 renderDictionary(dictionary);
 
-// Function to search for a term
+// Function to handle search
 function search() {
     var searchTerm = document.getElementById('searchTerm').value.toLowerCase();
-    var searchResults = [];
-    if (searchTerm.trim() !== '') {
-        searchResults = dictionary.filter(function(term) {
-            return term.term.toLowerCase().includes(searchTerm);
-        });
-    } else {
-        searchResults = dictionary; // Show all terms if search input is empty
-    }
+    var searchResults = dictionary.filter(function(term) {
+        return term.term.toLowerCase().includes(searchTerm);
+    });
     renderDictionary(searchResults);
 }
