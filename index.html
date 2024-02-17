@@ -7,14 +7,13 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
+    <header>
         <h1>Dictionary By Rizky Ganuar</h1>
-        <div id="searchBox">
-            <input type="text" id="searchTerm" placeholder="Search...">
-            <button class="button" onclick="searchDictionary()">Search</button>
-        </div>
-        <div id="dictionaryContainer"></div>
-    </div>
+        <input type="text" id="searchTerm" placeholder="Search..." oninput="search()">
+    </header>
+    <main id="dictionary">
+        <!-- Words will be dynamically generated here -->
+    </main>
     <script src="script.js"></script>
 </body>
 </html>
