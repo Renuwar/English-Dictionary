@@ -2,8 +2,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ISS-40_Thunderheads_near_Borneo.jpg/330px-ISS-40_Thunderheads_near_Borneo.jpg'); /* Add your image URL here */
-    background-size: center; /* Adjusts the background image to cover the entire element */
+    background-color: #58afed; /* Light background color */
     margin: 0;
     padding: 0;
 }
